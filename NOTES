@@ -1,0 +1,4 @@
+NOTE, 2015-06-21:  Before I started this script (which I'll upload later), I searched for an existing method.  I didn't find one (or, at least, one I liked and wanted to use).  I don't know how, but, apparently, I didn't see the following post and page.  I just found them today.
+  * "shell - How to compare text files and delete duplicates (Linux terminal commands) - Stack Overflow".  <https://stackoverflow.com/questions/18475276/how-to-compare-text-files-and-delete-duplicates-linux-terminal-commands>
+  * "adrianlopezroche/fdupes".  <https://github.com/adrianlopezroche/fdupes>.
+
